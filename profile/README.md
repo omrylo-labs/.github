@@ -1,21 +1,7 @@
 # Omrylo
 
-Every conversation opens a new world.
+> Omrylo is an independent brand founded and led by Ming, building focused web products, AI systems, and practical tools. Work and writing: omrylo.com
 
-Omrylo is building living story worlds powered by AI.
-
-Explore characters, shape stories, and discover new worlds through conversation.
-
-## What We're Building
-
-- AI Story Worlds
-- Interactive Fiction
-- Character-Driven Adventures
-- Role-Playing Experiences
-
-## Mission
-
-Build living story worlds powered by AI.
 
 ## Links
 
